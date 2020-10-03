@@ -1,0 +1,11 @@
+				Pluto
+Average Distance from Sun	3.7 billion miles
+Average Speed in Orbiting Sun	3 miles per second
+Diameter			1477 miles
+Tilt of Axis			120 degrees
+Length of Year			248 Earth Years
+Length of Day			6.4 Earth Days = 153 hours
+Gravity				0.08 times Earth = 0.61 m/s/s
+Temperature	       Average- minus 400 F
+Atmosphere	                mainly Nitrogen, with little methane and carbon monoxide
+Number of Moons			5
