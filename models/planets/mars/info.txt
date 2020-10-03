@@ -1,0 +1,17 @@
+MARS Atmosphere info-
+
+
+Mars’ atmosphere is composed primarily of carbon dioxide (about 96 percent), with minor amounts of other gases such as argon and nitrogen. The atmosphere is very thin, however, and the atmospheric pressure at the surface of Mars is only about 0.6 percent of Earth’s (101,000 pascals).
+
+
+				Earth 			Mars
+Average Distance from Sun	93 million miles	142 million miles
+Average Speed in Orbiting Sun	18.5 miles per second	14.5 miles per second
+Diameter			7,926 miles		4,220 miles
+Tilt of Axis			23.5 degrees		25 degrees
+Length of Year			365.25 Days		687 Earth Days
+Length of Day			23 hours 56 minutes	24 hours 37 minutes
+Gravity				2.66 times that of Mars	0.375 that of Earth
+Temperature		Average 57 degrees F		Average -81 degrees F
+Atmosphere	nitrogen, oxygen, argon, others		mostly carbon dioxide, some water vapor
+Number of Moons			1				2
