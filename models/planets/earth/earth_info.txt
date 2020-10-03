@@ -1,0 +1,11 @@
+				Earth 
+Average Distance from Sun	93 million miles	
+Average Speed in Orbiting Sun	18.5 miles per second	
+Diameter			7,926 miles		
+Tilt of Axis			23.5 degrees		
+Length of Year			365.25 Days		
+Length of Day			23 hours 56 minutes	
+Gravity				2.66 times that of Mars	
+Temperature	       Average- 57 degrees F		
+Atmosphere	                nitrogen, oxygen, argon, others		
+Number of Moons			1				
