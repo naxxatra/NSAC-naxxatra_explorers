@@ -1,7 +1,7 @@
 				Jupiter
 Average Distance from Sun	84 million miles
 Average Speed in Orbiting Sun	8.12 miles per second
-Diameter			4,220 miles
+Diameter			86,881 miles
 Tilt of Axis			3 degrees
 Length of Year			12 Earth Years = 4300 Earth Days
 Length of Day			9 hours 56 minutes
